@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Practice Single App",
+      "day": "May 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Reset The Laptop",
+      "day": "May 6th at 1:30pm",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Meeting with Sam",
+      "day": "May 7th at 12:30pm",
+      "reminder": false
+    },
+    {
+      "text": "Wash the car",
+      "day": "May 3rd at 3:30pm",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
